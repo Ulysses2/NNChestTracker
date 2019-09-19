@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nnchesttracker",
+  "name": "NNChestTracker",
+  "description": "Keep track of loot chests you have opened",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["UlyssesB"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
